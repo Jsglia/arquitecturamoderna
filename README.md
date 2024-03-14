@@ -1,6 +1,6 @@
 ## ¡Bienvenido al proyecto final del curso de Desarrollo Web de CoderHouse ##
 
-# Este README proporciona una visión general del proyecto, su estructura, tecnologías utilizadas y cómo poner en marcha la aplicación. #
+Este README proporciona una visión general del proyecto, su estructura, tecnologías utilizadas y cómo poner en marcha la aplicación.
 
 # Descripción del Proyecto #
 Este proyecto consiste en la creación de un sitio web para una empresa de arquitectura, con el objetivo de mostrar sus servicios, 
